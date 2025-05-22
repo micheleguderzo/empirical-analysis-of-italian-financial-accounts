@@ -10,7 +10,7 @@ This repository contains the final project for the **Advanced Econometrics** cou
 
 The goal of this project is to analyze the **Italian financial accounts from 1961 to 2011** in order to estimate the **Gross Domestic Product (GDP) for the year 2011**. The study investigates how different macroeconomic variables — such as value added, public spending, investment, import, and export — have contributed to shaping the Italian economy over the last five decades, with a focus on modeling techniques suited for time series data.
 
-The project was a collaborative effort, developed in partnership with a teammate as part of an academic course.
+The project was a collaborative effort, developed in partnership with @Vcecca as part of an academic course.
 
 ## 🧠 Key Topics
 
